@@ -1,5 +1,5 @@
 {
-    "name": "symfony/mongodb-odm-bundle",
+    "name": "tamabe/mongodb-odm-bundle",
     "type": "library",
     "description": "Symfony2 Doctrine MongoDB Bundle",
     "keywords": ["persistence", "mongodb", "symfony"],
