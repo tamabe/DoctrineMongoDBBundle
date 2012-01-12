@@ -15,5 +15,11 @@
         "doctrine/mongodb-odm": "*",
         "symfony/doctrine-bridge": "*",
         "symfony/framework-bundle": "*"
-    }
+    },
+    "autoload": {
+        "psr-0": {
+            "Symfony\\Bundle\\DoctrineMongoDBBundle": ""
+        }
+    },
+    "target-dir" : "Symfony/Bundle/DoctrineMongoDBBundle"
 }
